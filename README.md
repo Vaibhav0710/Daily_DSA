@@ -14,7 +14,6 @@
 - **15–50 min (Solve):** Code 1–2 curated problems (using Striver SDE Sheet / NeetCode 150). Focus on clean Java implementation.
 - **50–60 min (Review):** Debug failures, optimize complexity, test edge cases (empty inputs, single elements, negative numbers).
 
-*(Coach Trigger: Type `@dsa-coach Let's start Day X` in Antigravity to begin, and I will track your progress!)*
 
 ---
 
