@@ -110,21 +110,25 @@ Always test for:
 - Arrays + Hashing
 - Sliding Window
 - Two Pointers
+- Linked Lists
 
 ### 🟡 Phase 2: Core DS
-- Stack
+- Stack & Queue
 - Binary Search
+- Trees & BST
 - Recursion / Backtracking
 
 ### 🔵 Phase 3: Advanced
-- Trees
-- Heaps
-- Graphs
+- Heaps / Priority Queue
+- Graphs (BFS, DFS, Topo)
+- Advanced Graphs (Union-Find, Dijkstra)
+- Tries
 
 ### 🔴 Phase 4: FAANG Level
-- Dynamic Programming
-- Hard problems
-- Mixed patterns
+- Greedy & Intervals
+- 1D & 2D Dynamic Programming
+- Bit Manipulation & Math
+- Hard problems & Mixed patterns
 
 ---
 
