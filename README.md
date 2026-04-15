@@ -36,7 +36,7 @@ weekXX/
 ### 🟢 Phase 1: Foundations (Days 1–15)
 - [x] Day 01 — Arrays & Hashing: Two Sum, Contains Duplicate
 - [x] Day 02 — Arrays: Best Time to Buy/Sell Stock, Product of Array Except Self
-- [ ] Day 03 — Arrays: Valid Sudoku, Longest Consecutive Sequence
+- [x] Day 03 — Arrays: Valid Sudoku, Longest Consecutive Sequence
 - [ ] Day 04 — Two Pointers: Valid Palindrome, Two Sum II
 - [ ] Day 05 — Two Pointers: 3Sum, Container With Most Water
 - [ ] Day 06 — Two Pointers: Trapping Rain Water
