@@ -39,7 +39,7 @@ weekXX/
 - [x] Day 03 — Arrays: Valid Sudoku, Longest Consecutive Sequence
 - [x] Day 04 — Two Pointers: Valid Palindrome, Two Sum II
 - [x] Day 05 — Two Pointers: 3Sum, Container With Most Water
-- [ ] Day 06 — Two Pointers: Trapping Rain Water
+- [x] Day 06 — Two Pointers: Trapping Rain Water
 - [ ] Day 07 — Sliding Window: Best Time to Buy/Sell Stock (revisit), Longest Substring Without Repeating
 - [ ] Day 08 — Sliding Window: Longest Repeating Character Replacement
 - [ ] Day 09 — Sliding Window: Minimum Window Substring, Sliding Window Maximum
