@@ -12,7 +12,10 @@
 - **0–5 min (Recap):** Recall yesterday's pattern and mistakes.
 - **5–15 min (Learn):** Deep dive into 1 pattern (signals, time/space tradeoffs).
 - **15–50 min (Solve):** Code 1–2 curated problems (using Striver SDE Sheet / NeetCode 150). Focus on clean Java implementation.
-- **50–60 min (Review):** Debug failures, optimize complexity, test edge cases (empty inputs, single elements, negative numbers).
+- **50–60 min (Review & Document):** Debug failures, optimize complexity, and update `notes.md` with:
+    - **Brute Force:** The initial/naive approach and why it's inefficient.
+    - **Optimal Solution:** Detailed pattern logic with time/space targets.
+    - **Dry Run:** A line-by-line trace of the logic using a real test case.
 
 
 ---
@@ -40,7 +43,7 @@ weekXX/
 - [x] Day 04 — Two Pointers: Valid Palindrome, Two Sum II
 - [x] Day 05 — Two Pointers: 3Sum, Container With Most Water
 - [x] Day 06 — Two Pointers: Trapping Rain Water
-- [ ] Day 07 — Sliding Window: Best Time to Buy/Sell Stock (revisit), Longest Substring Without Repeating
+- [x] Day 07 — Sliding Window: Best Time to Buy/Sell Stock (revisit), Longest Substring Without Repeating
 - [ ] Day 08 — Sliding Window: Longest Repeating Character Replacement
 - [ ] Day 09 — Sliding Window: Minimum Window Substring, Sliding Window Maximum
 - [ ] Day 10 — Linked Lists: Reverse Linked List, Merge Two Sorted Lists

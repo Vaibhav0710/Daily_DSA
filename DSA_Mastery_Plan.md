@@ -51,11 +51,15 @@ Every problem must map to a known pattern:
   - Clean Java implementation
   - Avoid brute force
 
-### 🔍 50–60 min → Review
+### 🔍 50–60 min → Review & Document
 - Analyze:
   - What went wrong?
   - Could it be optimized?
   - Did you miss edge cases?
+- **Document (notes.md):** 
+  - **Brute Force:** Logic + Complexity.
+  - **Optimal Solution:** Pattern-based logic + Complexity.
+  - **Detailed Dry Run:** Step-by-step trace of the optimal logic.
 
 ---
 
@@ -146,6 +150,7 @@ Always test for:
 - ❌ No passive watching tutorials
 - ❌ No memorizing solutions
 - ❌ No skipping review
+- ❌ No documentation without Dry Runs
 
 ---
 
