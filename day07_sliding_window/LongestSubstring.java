@@ -24,8 +24,8 @@ public class LongestSubstring {
         while (right < s.length()) {
             char currentChar = s.charAt(right);
 
-            // If the character is already in the set, shrink the window from the left
-            // until the duplicate is removed
+            // If the character is already in the set, shrink the window from the left until
+            // the duplicate is removed
             while (charSet.contains(currentChar)) {
                 charSet.remove(s.charAt(left));
                 left++;
