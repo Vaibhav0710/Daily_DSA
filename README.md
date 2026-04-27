@@ -44,7 +44,7 @@ weekXX/
 - [x] Day 05 — Two Pointers: 3Sum, Container With Most Water
 - [x] Day 06 — Two Pointers: Trapping Rain Water
 - [x] Day 07 — Sliding Window: Best Time to Buy/Sell Stock (revisit), Longest Substring Without Repeating
-- [ ] Day 08 — Sliding Window: Longest Repeating Character Replacement
+- [x] Day 08 — Sliding Window: Longest Repeating Character Replacement
 - [ ] Day 09 — Sliding Window: Minimum Window Substring, Sliding Window Maximum
 - [ ] Day 10 — Linked Lists: Reverse Linked List, Merge Two Sorted Lists
 - [ ] Day 11 — Linked Lists: Reorder List, Remove Nth Node
